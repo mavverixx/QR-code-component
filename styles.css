@@ -1,17 +1,30 @@
 body {
-        background-color: hsl(212, 45%, 89%);;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0; /* Remove default browser margin */
+    display: flex; /* Use Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure the body takes up the full viewport height */
 }
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+  }
 #container {
             display: flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            margin-left: 450px;
             margin-top: 100px;
             width: 290px;
             height: 460px;
             background-color: white;
-            border-radius: 20px;       
+            border-radius: 20px;   
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds depth */   
 }
 img {
     margin: 0px;
