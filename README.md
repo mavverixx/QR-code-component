@@ -1,4 +1,4 @@
-# Frontend Mentor - QR Code Component Solution
+# QR Code Component Solution for  Frontend Mentor
 
 ![Screen Recording 2025-02-12 at 18-40-56_1](https://github.com/user-attachments/assets/45dc39bb-6cf2-48e5-9533-ad8e48d58729)
 
