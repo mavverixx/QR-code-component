@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component Solution
 
-![Screenshot of the QR Code Component](./images/screenshot.png)
+![Screen Recording 2025-02-12 at 18-40-56_1](https://github.com/user-attachments/assets/45dc39bb-6cf2-48e5-9533-ad8e48d58729)
 
 
 This is my solution to the [QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen Recording 2025-02-12 at 18-40-56_1](https://github.com/user-attachments/assets/45dc39bb-6cf2-48e5-9533-ad8e48d58729)
+<img width="1010" alt="2025-02-13 17_20_10-QR code component and 18 more pages - Personal - Microsoft​ Edge" src="https://github.com/user-attachments/assets/022cddd4-6a5f-44cf-93ca-8ab81456b148" />
+
 
 ### Links
 
