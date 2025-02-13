@@ -1,32 +1,57 @@
-Frontend Mentor - QR Code Component Solution
+# Frontend Mentor - QR Code Component Solution
 
-This is my solution to the QR Code Component Challenge on Frontend Mentor. This challenge allowed me to practice building a simple, responsive component using HTML and CSS.
+![Screenshot of the QR Code Component](./images/screenshot.png)
 
-Table of Contents
-Overview
-Screenshot
-My Process
-Built With
-What I Learned
-Continued Development
-Useful Resources
-Author
-Acknowledgments
-Overview
-Screenshot
 
-My Process
-Built With
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-Mobile-first workflow
-Google Fonts for typography
-What I Learned
+This is my solution to the [QR Code Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-This project helped me reinforce my understanding of Flexbox and how to create a responsive layout. I also practiced using CSS custom properties for colors and typography, which made the code more maintainable.
+## Table of contents
 
-Here’s an example of a CSS snippet I’m proud of:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View a QR code component with a clean and responsive design.
+- See a layout that adapts well to different screen sizes, including mobile and desktop.
+
+### Screenshot
+
+![Screen Recording 2025-02-12 at 18-40-56_1](https://github.com/user-attachments/assets/45dc39bb-6cf2-48e5-9533-ad8e48d58729)
+
+### Links
+
+- **Solution URL:** [https://github.com/yourusername/qr-code-component](https://github.com/yourusername/qr-code-component)
+- **Live Site URL:** [https://qr-code-componentqr.netlify.app/](https://qr-code-componentqr.netlify.app/)
+
+## My process
+
+### Built with
+
+- **HTML5** – Semantic markup for structuring the component.
+- **CSS3** – Custom properties and Flexbox for a responsive design.
+- **Mobile-first workflow** – Ensuring the design is optimized for smaller devices first.
+- **Google Fonts** – For clean and modern typography.
+
+### What I learned
+
+This project reinforced my understanding of Flexbox and responsive design. It also helped me deepen my knowledge of CSS custom properties, which make the code more maintainable. For example, here's a snippet that demonstrates how I centered content:
+
+
+```css
 
 #container {
     display: flex;
@@ -40,23 +65,21 @@ Here’s an example of a CSS snippet I’m proud of:
     background-color: white;
     border-radius: 20px;    
 }
+```
 
 
-This snippet demonstrates how I used Flexbox to center the content and create a clean, responsive layout.
+###  Continued development
+In future projects, I plan to:
 
-Continued Development
-
-In future projects, I want to focus on:
-
-Improving my understanding of CSS Grid for more complex layouts.
-Enhancing accessibility by using ARIA roles and semantic HTML.
-Exploring JavaScript to add interactivity to components.
-Useful Resources
-MDN Web Docs - Flexbox - This resource helped me understand how to use Flexbox effectively.
-Frontend Mentor Community - I found inspiration and tips from other developers working on similar challenges.
+Enhance my understanding of CSS Grid for more complex layouts.
+Improve accessibility by incorporating ARIA roles and better semantic HTML.
+Integrate JavaScript to add interactivity to components.
+Useful resources
+MDN Web Docs - Flexbox – A comprehensive guide to Flexbox.
+Frontend Mentor Community – Inspiration and practical tips from fellow developers.
 Author
-GitHub: Rikki Henry
+GitHub: mavverixx
 Frontend Mentor: @mavverixx
 Acknowledgments
+Thank you to the Frontend Mentor community for providing such an outstanding platform to practice and enhance my front-end development skills. Special thanks to the creators of this challenge for designing a simple yet effective project to work on. 
 
-I’d like to thank the Frontend Mentor community for providing such a great platform to practice and improve my front-end development skills. Special thanks to the creators of this challenge for designing a simple yet effective project to work on.
